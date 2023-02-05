@@ -7,7 +7,10 @@
 
 ### Résultats
 
-<img src="https://github.com/Mandy21/blob/main/plot_1.png" />
+<img src="https://github.com/Mandy21/Science-ouverte/blob/main/plot_1.png" />
+
+<img src="https://github.com/Mandy21/Science-ouverte/blob/main/plot_2.png" />
+
 
 ### Code
 
