@@ -7,6 +7,7 @@
 
 ### Résultats
 
+<img src="https://github.com/Mandy21/blob/main/plot_1.png" />
 
 ### Code
 
