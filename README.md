@@ -10,4 +10,4 @@
 
 ### Code
 
-Le notebook détaillant le code visant à reproduire les résultats de l'étude se trouve [ici](Publications_ANR_Université_Lyon_2.ipynb), le notebook décrivant le code pour reproduire les résultats de l'étude.
+Le notebook détaillant le code visant à reproduire les résultats de l'étude se trouve [ici](Publications_ANR_Université_Lyon_2.ipynb).
