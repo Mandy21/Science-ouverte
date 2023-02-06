@@ -7,14 +7,16 @@
 
 ## 2 Les données
 
-Les données utilisées sont les documents déposés dans l'archive HAL par les auteurs de l'Université Lumière Lyon 2. Ces documents (tous types) sont tous issus de projets financés par l'Agence Nationale de la Recherche Scientifique (ANR)
-## Résultats
+Les données utilisées sont les documents déposés dans l'archive HAL par les auteurs de l'Université Lumière Lyon 2. Ces documents sont tous issus de projets financés par l'Agence Nationale de la Recherche (ANR) depuis 2005. Nous prenons tous les types de documents HAL publiés (article dans une revue, communication dans un congrès, chapitre d'ouvrage, etc.) pour l'Université Lyon 2 et pour chacun de ses laboratoires. Le 4 février 2023 cela représente un total de 2728 documents déposés dans l'archive HAL. Le notebook détaillant le code pour reproduire les résultats de l'étude se trouve [ici](Publications_ANR_Université_Lyon_2.ipynb).
+
+
+## 3 Résultats
+
+ #### 3.1 <span style="color:gray" > Taux d'ouverture global </span>
 
 <img src="https://github.com/Mandy21/Science-ouverte/blob/main/plot_1.png" />
 
+ #### 3.2 <span style="color:gray" > Taux d'ouverture par laboratoires </span>
+
 <img src="https://github.com/Mandy21/Science-ouverte/blob/main/plot_2.png" />
 
-
-### Code
-
-Le notebook détaillant le code visant à reproduire les résultats de l'étude se trouve [ici](Publications_ANR_Université_Lyon_2.ipynb).
