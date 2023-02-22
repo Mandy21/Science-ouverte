@@ -9,7 +9,7 @@
 Le taux d'ouverture varie fortement d'un laboratoire à un autre avec le plus grand taux (94%) pour Entrepôts, Représentation et Ingénierie des Connaissances (ERIC) et le plus faible pour le Laboratoire de Recherche Historique Rhône-Alpes (LARHRA), avec un taux de 4% (exception faite des laboratoires où 100% des documents sont en accès fermé, le nombre de documents étant trop faible pour être significatif).</p>
 </p>
 
-## 2 Les données
+## 2 Description des données et code pour reproduire les résultats
 
 Les données utilisées sont les documents déposés dans l'archive HAL par les auteurs de l'Université Lumière Lyon 2. Ces documents sont tous issus de projets financés par l'Agence Nationale de la Recherche (ANR) et ont été déposés entre 2017 et 2023. Nous prenons tous les types de documents HAL publiés (article dans une revue, communication dans un congrès, chapitre d'ouvrage, etc.) pour l'Université Lyon 2 et pour chacun de ses laboratoires. Le 21 février 2023 cela représente un total de 2757 documents déposés dans l'archive HAL. Le notebook détaillant le code pour reproduire les résultats de l'étude se trouve [ici](Publications_ANR_Université_Lyon_2.ipynb).
 
