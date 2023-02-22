@@ -2,7 +2,7 @@
 
 ##  <center> <span style="color:red" > *Février 2023* </span> </center> 
 
-## 1 Introduction/résumé
+## 1 Introduction
 
 <p>En février 2023, sur les 2757 publications issues des financements ANR pour Lyon 2, pratiquement 6 publications sur 10 sont en accès fermé. La majorité des dépôts est de type "notice" avec le texte intégral non disponible dans HAL, mais qui sont éventuellement en accès ouvert dans une autre plateforme. L'ensemble publication sous forme d'article dans une revue, et publication sous forme de communication dans un congrès, représente partiquement les deux tiers de ces dépôts. 58% des dépôts de 2020 sont en accès ouvert, un accès ouvert supérieur à l'accès fermé pour la première fois depuis 2011. Cependant, par la suite le taux d'accès ouvert par année de dépôt diminue, 71% des dépôts de 2023 sont en accès fermé. Pratiquement 70% des publications de 2023 sont en accès ouvert soit un accès ouvert supérieur à l'accès fermé pour la première fois depuis les publications de 2020.
 
