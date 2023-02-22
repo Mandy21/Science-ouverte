@@ -16,11 +16,39 @@ Les données utilisées sont les documents déposés dans l'archive HAL par les 
 
 ## 3 Résultats
 
- #### 3.1 <span style="color:gray" > Taux d'ouverture global </span>
+ #### 3.1 <span style="color:gray" > Types des documents </span>
 
 <img src="https://github.com/Mandy21/Science-ouverte/blob/main/plot_1.png" />
 
- #### 3.2 <span style="color:gray" > Taux d'ouverture par laboratoires </span>
+
+ #### 3.2 <span style="color:gray" > Types des dépôts </span>
 
 <img src="https://github.com/Mandy21/Science-ouverte/blob/main/plot_2.png" />
+
+
+ #### 3.3 <span style="color:gray" > Taux d'ouverture global </span>
+
+<img src="https://github.com/Mandy21/Science-ouverte/blob/main/plot_3.png" />
+
+
+ #### 3.4 <span style="color:gray" > Taux d'ouverture par années de dépôt </span>
+
+<img src="https://github.com/Mandy21/Science-ouverte/blob/main/plot_4.png" />
+
+
+ #### 3.5 <span style="color:gray" > Taux d'ouverture par années de publication </span>
+
+<img src="https://github.com/Mandy21/Science-ouverte/blob/main/plot_5.png" />
+
+
+ #### 3.6 <span style="color:gray" > Taux d'ouverture par laboratoires </span>
+
+<img src="https://github.com/Mandy21/Science-ouverte/blob/main/plot_6.png" />
+
+
+
+
+
+
+
 
