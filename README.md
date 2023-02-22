@@ -1,4 +1,6 @@
-# Les publications dans HAL de l'UL2, issues des financements de l'ANR (Lyon, février 2023)
+# Les publications dans HAL de l'UL2, issues des financements de l'ANR
+
+##  <center> <span style="color:red" > *Février 2023* </span> </center> 
 
 ## 1 Introduction/résumé
 
