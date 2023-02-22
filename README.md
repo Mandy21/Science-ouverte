@@ -11,8 +11,8 @@ Le taux d'ouverture varie fortement d'un laboratoire à un autre avec le plus gr
 
 ## 2 Description des données et code pour reproduire les résultats
 
-Les données utilisées sont les documents déposés dans l'archive HAL par les auteurs de l'Université Lumière Lyon 2. Ces documents sont tous issus de projets financés par l'Agence Nationale de la Recherche (ANR) et ont été déposés entre 2017 et 2023. Nous prenons tous les types de documents HAL publiés (article dans une revue, communication dans un congrès, chapitre d'ouvrage, etc.) pour l'Université Lyon 2 et pour chacun de ses laboratoires. Le 21 février 2023 cela représente un total de 2757 documents déposés dans l'archive HAL. Le notebook détaillant le code pour reproduire les résultats de l'étude se trouve [ici](Publications_ANR_Université_Lyon_2-version 2.ipynb).
-Publications_ANR_Université_Lyon_2-version 2.ipynb
+Les données utilisées sont les documents déposés dans l'archive HAL par les auteurs de l'Université Lumière Lyon 2. Ces documents sont tous issus de projets financés par l'Agence Nationale de la Recherche (ANR) et ont été déposés entre 2017 et 2023. Nous prenons tous les types de documents HAL publiés (article dans une revue, communication dans un congrès, chapitre d'ouvrage, etc.) pour l'Université Lyon 2 et pour chacun de ses laboratoires. Le 21 février 2023 cela représente un total de 2757 documents déposés dans l'archive HAL. Le notebook détaillant le code pour reproduire les résultats de l'étude se trouve [ici](Publications_ANR_Université_Lyon_2_version_2.ipynb).
+Publications_ANR_Université_Lyon_2_version_2.ipynb
 
 
 ## 3 Résultats
